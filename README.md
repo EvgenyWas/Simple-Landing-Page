@@ -5,4 +5,4 @@
 2. homepage_dark and homepage_light with the help of Flexbox and BEM;
 3. Button "Turn a theme" between dark and light themes.
 
-[DEMO](https://evgenywas.github.io/tms-hm-three/)
+[DEMO](https://evgenywas.github.io/simple-landing-page/)
