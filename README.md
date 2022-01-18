@@ -1,5 +1,9 @@
 # Simple landing page
 
+## Preview
+
+url(simple-landing-page-dark-preview.jpg)
+
 ## Done:
 1. The preview of pages is in a file "design.pdf";
 2. homepage_dark with help of Flexbox and BEM;
