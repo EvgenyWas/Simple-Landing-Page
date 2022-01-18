@@ -2,7 +2,7 @@
 
 ## Preview
 
-img[url(simple-landing-page-dark-preview.jpg)]
+[Image alt](https://github.com/EvgenyWas/Simple-Landing-Page/simple-landing-page-dark-preview.jpg)
 
 ## Done:
 1. The preview of pages is in a file "design.pdf";
