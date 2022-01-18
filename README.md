@@ -5,4 +5,4 @@
 2. homepage_dark with help of Flexbox and BEM;
 3. Adaptation the location for Ipad Air, Iphone XR and Iphone SE with help of Media queries.
 
-[DEMO](https://evgenywas.github.io/simple-landing-page/)
+[DEMO](https://evgenywas.github.io/Simple-Landing-Page/)
